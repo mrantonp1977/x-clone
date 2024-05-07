@@ -41,7 +41,7 @@ export default function News() {
         onClick={() => setArticles(articles + 3)}
         className="w-full py-2 text-white bg-gray-700 rounded-b-xl hover:bg-gray-900 transition duration-200" 
       >
-        Load More
+        Show More
       </button>
     </div>
   );
