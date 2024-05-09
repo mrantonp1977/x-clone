@@ -19,7 +19,7 @@ export default function Sidebar() {
         </Link>
         <Link
           href="/"
-          className="flex items-center justify-center p-3 hover:bg-gray-200 rounded-full transition-all duration-200 gap-2 w-fit"
+          className="flex items-center p-3 hover:bg-gray-200 rounded-full transition-all duration-200 gap-2 w-fit"
         >
           <HiHome className="h-7 w-7" />
           <span className="font-bold hidden xl:inline">Home</span>
